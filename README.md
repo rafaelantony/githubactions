@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Modificando para triggar o build.
+Modificando para triggar o build, agora com o skip ci.
 
 Repo for the `GitHub Actions Fundamentals` training.
 
