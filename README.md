@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+Modificando para triggar o build.
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
